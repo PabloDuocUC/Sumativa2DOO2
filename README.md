@@ -7,6 +7,7 @@
 - **Sección:** 002A
 - **Carrera:** Analista Programador
 - **Sede:** Online
+- **Profesor:** Jorge Carmona
 
 ---
 
